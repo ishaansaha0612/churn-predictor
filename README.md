@@ -1,6 +1,6 @@
 # Customer churn predictor
 
-> **Sample project.** Built to match the fictional "Jordan Patel" resume. The data is synthetic, generated with a known churn formula so you can check whether the model finds the real drivers.
+> **Personal project.** The data is synthetic, generated with a known churn formula so you can check whether the model finds the real drivers.
 
 Predicts which telecom customers are likely to cancel, explains *why*, and produces a call list a retention team can act on.
 
