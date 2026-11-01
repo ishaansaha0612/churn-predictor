@@ -43,7 +43,7 @@ python -m pytest -q    # 4 tests
 4. **Tune the threshold** to balance catching churners against false alarms.
 5. **Explain**: rank coefficients, translate feature names into plain English.
 
-## Design decisions worth talking about in an interview
+## Design decisions
 
 - **Why not just maximize accuracy?** With a 31% churn rate, accuracy rewards ignoring churners.
 - **Why logistic regression over random forest?** Similar AUC, and a manager can understand "two-year contracts cut risk."
